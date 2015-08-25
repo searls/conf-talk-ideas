@@ -1,4 +1,6 @@
-# Functional Is the New Black -- RubyConf 2015 & CodeMash 2016
+# Functional Is the New Black
+
+Conferences: RubyConf 2015 & CodeMash 2016
 
 ## Title
 

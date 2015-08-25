@@ -1,4 +1,6 @@
-# All About Actors -- RubyConf 2015 & CodeMash 2016
+# All About Actors
+
+Conferences: RubyConf 2015 & CodeMash 2016
 
 ## Title
 

@@ -1,4 +1,6 @@
-# Everything You Know About the GIL is Wrong -- RubyConf 2015
+# Everything You Know About the GIL is Wrong
+
+Conferences: RubyConf 2015
 
 ## Title
 

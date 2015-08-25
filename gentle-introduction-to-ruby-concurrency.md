@@ -1,4 +1,6 @@
-# A Gentle Introduction to Ruby Concurrency -- RubyConf 2015
+# A Gentle Introduction to Ruby Concurrency
+
+Conferences: RubyConf 2015
 
 ## Title
 
