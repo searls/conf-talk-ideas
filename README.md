@@ -3,7 +3,7 @@
 **RubyConf 2015**
 
 * [Everything You Know About the GIL is Wrong](everything-you-know-about-the-gil-is-wrong.md)
-* [A Gentle Introsuction to Ruby Concurrency](gentle-introduction-to-ruby-concurrency.md)
+* [A Gentle Introduction to Ruby Concurrency](gentle-introduction-to-ruby-concurrency.md)
 
 **RubyConf 2015 & CodeMash 2016**
 
